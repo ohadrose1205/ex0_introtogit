@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Blue
+Favorite food: Hamburger
+Favorite musician/band: Hanan Ben Ari
+Favorite movie: Infinity War
+Requested grade in the course: 99
